@@ -17,6 +17,9 @@
 #
 # is also a good place to look at.
 
+arch:
+ - amd64
+ - ppc64le
 language: c
 
 os: linux
